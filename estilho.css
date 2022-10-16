@@ -1,0 +1,261 @@
+body{
+    background-color: sandybrown;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.dis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ptf h1{
+    border: 2px solid white;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin-top: 3px;
+    border-radius: 6px;
+}
+
+
+.tudo{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.informaçoes{
+ height: 70vh;
+ width: 103vh;
+ border: 2px solid white;
+ margin-top: 10px;
+border-radius: 6px;
+padding: 10px;
+}
+
+.introdução{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inicio{
+border: 2px solid white;
+border-radius: 7px;
+margin-top: 50px;
+width: 70vh;
+height: 39vh;
+padding: 5px;
+}
+
+.inicio video{
+    width: 70vh;
+    
+}
+
+
+.Quem{
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   flex-direction: column;
+   margin-top: -470px;
+}
+
+.sou{
+    border: 2px solid white;
+    border-radius: 7px ;
+    width:  100vh;
+    height: 52vh;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+
+.fag{
+    border:  2px solid white;
+    border-radius: 7px;
+    width: 43vh;
+    height: 50vh;
+    padding: 3px;
+}
+
+.fag img{
+    height: 50vh;
+    width: 43vh;
+    border-radius: 5px;
+}
+
+.cns{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.obs{
+    border:  2px solid white;
+    border-radius: 7px;
+    width: 40vh;
+    height: 45vh;
+    padding: 3px;
+    margin-top: -290px;
+}
+
+.A h1{
+ font-size: 20px;
+ text-align: justify;
+
+}
+
+
+.tc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.contatos{
+    border: 2px solid white;
+    width:70vh;
+    height: 10vh;
+    border-radius: 7px;
+    margin-top: 100px;
+    padding:5px ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contatos img{
+    
+    width: 10vh;
+    height: 10vh;
+    border-radius: 10px;
+    
+}
+
+.alig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.forms{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 180vh;
+    height:100vh;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.in{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.in h1{
+
+    text-align: center;
+    border:2px solid white;
+    border-radius: 7px;
+    width: 50vh;
+}
+
+
+
+.SA{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 30vh;
+    text-align: center;
+    margin-top: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.SA a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.sga{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 70vh;
+    margin-top: 10px;
+    padding: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sga a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Snt{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 50vh;
+    margin-top: 10px;
+    padding: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Snt a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cvm{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 50vh;
+    margin-top: 10px;
+    padding: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cvm a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Cej{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 50vh;
+    margin-top: 10px;
+    padding: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Cej a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.alter{
+    border: 2px solid white;
+    border-radius: 7px;
+    width: 50vh;
+    margin-top: 10px;
+    padding: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.alter a{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
